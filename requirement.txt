@@ -1,0 +1,4 @@
+dash==2.5.1
+plotly==5.8.2
+jqdatasdk
+pandas
