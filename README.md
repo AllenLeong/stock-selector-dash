@@ -10,7 +10,7 @@ $ pip install -r requirement.txt
 # ACCOUNT = ''
 # PASSWORD = ''
 
-$ python main.py
+$ python Dashboard/main.py
 ```
 
 ![ezgif-8-fe807ffdcc](https://github.com/AllenLeong/stock-selector-dash/assets/41416404/896f11e9-2453-4416-bc9f-fc50847973f0)
