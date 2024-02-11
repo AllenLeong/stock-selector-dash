@@ -10,6 +10,7 @@ $ pip install -r requirement.txt
 # ACCOUNT = ''
 # PASSWORD = ''
 
+$ python data_ingestion.py
 $ python Dashboard/main.py
 ```
 
