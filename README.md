@@ -1,5 +1,6 @@
 # stock-selector-dash
 `Dash`+ `jqdatasdk` A股票选股器
+![image](https://github.com/AllenLeong/stock-selector-dash/assets/41416404/14c8802c-8536-41f3-92f0-a9b52d88d144)
 
 ```commandline
 $ pip install -r requirement.txt
